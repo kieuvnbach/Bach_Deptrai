@@ -1,5 +1,5 @@
 # README
-cd Bach_Deptrai
+
 ## GROUP <add-group-name>
 
 - Member 1: <add-name>
